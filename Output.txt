@@ -5,3 +5,6 @@ file: /Users/srlaxminaarayanan/Pictures/images/texas.tiff
  desert, landscape, no person, travel, arid, dry, mountain, sky, rock, outdoors, barren, cactus, nature, yucca, scenic, daylight, sand, Mojave, hill, valleyfile: /Users/srlaxminaarayanan/Pictures/images/texas.tiff 
  classification: 
  desert, landscape, no person, travel, arid, dry, mountain, sky, rock, outdoors, barren, cactus, nature, scenic, daylight, yucca, sand, hill, Mojave, valley
+ file: /Users/srlaxminaarayanan/Pictures/images/texas.tiff 
+ classification: 
+ desert, landscape, no person, travel, arid, dry, mountain, sky, rock, outdoors, barren, cactus, nature, scenic, daylight, yucca, sand, hill, Mojave, valley 

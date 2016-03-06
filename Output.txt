@@ -1,0 +1,3 @@
+file: /Users/srlaxminaarayanan/Pictures/images/texas.jpg 
+ classification: 
+ desert, landscape, no person, travel, arid, dry, mountain, sky, rock, outdoors, barren, cactus, nature, yucca, scenic, daylight, sand, Mojave, hill, valley
